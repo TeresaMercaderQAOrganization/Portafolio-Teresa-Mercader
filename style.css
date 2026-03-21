@@ -1,12 +1,12 @@
 body {
   font-family: Verdana, Arial, sans-serif;
   font-size: 1rem;
-  color: orange;
+  color: black;
   margin: 0;
 }
 
 header {
-  background-color: rgb(7, 167, 153);
+  background-color: rgb(10, 127, 159);
   color: white;
   padding: 5rem;
   text-align: center;
